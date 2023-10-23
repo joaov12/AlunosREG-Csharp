@@ -1,0 +1,14 @@
+C:\Users\João Vitor\source\repos\AlunosCRUD\bin\Debug\net6.0\AlunosCRUD.exe
+C:\Users\João Vitor\source\repos\AlunosCRUD\bin\Debug\net6.0\AlunosCRUD.deps.json
+C:\Users\João Vitor\source\repos\AlunosCRUD\bin\Debug\net6.0\AlunosCRUD.runtimeconfig.json
+C:\Users\João Vitor\source\repos\AlunosCRUD\bin\Debug\net6.0\AlunosCRUD.dll
+C:\Users\João Vitor\source\repos\AlunosCRUD\bin\Debug\net6.0\AlunosCRUD.pdb
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.AssemblyInfoInputs.cache
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.AssemblyInfo.cs
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.dll
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\refint\AlunosCRUD.dll
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.pdb
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\AlunosCRUD.genruntimeconfig.cache
+C:\Users\João Vitor\source\repos\AlunosCRUD\obj\Debug\net6.0\ref\AlunosCRUD.dll
