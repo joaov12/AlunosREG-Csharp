@@ -29,13 +29,20 @@ namespace AlunosCRUD
 
                 int id = aluno.SetId();
                 int matricula = aluno.SetMatricula();
-
+                // Não permitir ter a chance de ter matriculas repetidas
+                // Colocar isso aqui pra ser salvo em um arquivo talvez
                 listaDeAluno.Add(new Aluno(id ,nome, curso, idade, email, matricula));
             }
             foreach(Aluno aluno1 in listaDeAluno) 
             { 
                 Console.WriteLine(aluno1.ToString());
             }
+
+            // Colocar métodos para buscar/editar/deletar
+            // Fazer no começo do programa perguntar se é aluno ou professor
+            // Professor pode fazer as quatro operações de crud
+            // Aluno só pode fazer a operação de Buscar pra ver todos os alunos ou um aluno especifico
+
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace AlunosCRUD.Entities
+﻿using System.Collections.Generic;
+
+namespace AlunosCRUD.Entities
 {
     class Aluno
     {
@@ -14,6 +16,7 @@
         {
             
         }
+
 
         public Aluno(int id, string nome, string curso, int idade, string email, int matricula)
         {
